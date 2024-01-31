@@ -1,0 +1,3 @@
+[submodule "ex2_interactive_segmentation"]
+	path = ex2_interactive_segmentation
+	url = ./ex2_interactive_segmentation/
